@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Mercury",
+    "description": "Mercury is the smallest planet in the Solar System and the closest to the Sun. It has a thin atmosphere and no moons.",
+    "image_url": "https://example.com/mercury.jpg"
+  },
+  {
+    "name": "Venus",
+    "description": "Venus is the second planet from the Sun. It is the hottest planet in the Solar System due to its thick, toxic atmosphere.",
+    "image_url": "https://example.com/venus.jpg"
+  },
+  {
+    "name": "Earth",
+    "description": "Earth is the third planet from the Sun and the only known astronomical object to harbor life. It has one moon.",
+    "image_url": "https://example.com/earth.jpg"
+  },
+  {
+    "name": "Mars",
+    "description": "Mars is the fourth planet from the Sun. Known as the Red Planet, it has the largest volcano in the Solar System, Olympus Mons.",
+    "image_url": "https://example.com/mars.jpg"
+  },
+  {
+    "name": "Jupiter",
+    "description": "Jupiter is the largest planet in the Solar System. It has a Great Red Spot, a giant storm that has been raging for hundreds of years.",
+    "image_url": "https://example.com/jupiter.jpg"
+  },
+  {
+    "name": "Saturn",
+    "description": "Saturn is the sixth planet from the Sun and is known for its spectacular ring system. It has over 80 moons.",
+    "image_url": "https://example.com/saturn.jpg"
+  },
+  {
+    "name": "Uranus",
+    "description": "Uranus is the seventh planet from the Sun. It has a unique tilt, causing it to rotate on its side. Its atmosphere is mostly hydrogen and helium.",
+    "image_url": "https://example.com/uranus.jpg"
+  },
+  {
+    "name": "Neptune",
+    "description": "Neptune is the eighth and farthest planet from the Sun. It is known for its strong winds and dark storm systems.",
+    "image_url": "https://example.com/neptune.jpg"
+  },
+  {
+    "name": "Pluto",
+    "description": "Pluto is a dwarf planet in the Kuiper belt. Once considered the ninth planet, it was reclassified as a dwarf planet in 2006.",
+    "image_url": "https://example.com/pluto.jpg"
+  }
+]
